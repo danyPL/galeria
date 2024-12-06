@@ -1,1 +1,1 @@
-Do odpalnia aplikacji trzeba w jej directory dać na początku npm install, a następnie npm run dev :>
+Do odpelnia aplikacji trzeba w jej directory dać na początku npm install, a następnie npm run dev :>
